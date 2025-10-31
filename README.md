@@ -1,6 +1,6 @@
 # QA Assets for rust-bitcoinkernel
 
-This repository contains test assets for the [rust-bitcoinkernel](https://github.com/rust-bitcoin/rust-bitcoinkernel) project.
+This repository contains test assets for the [rust-bitcoinkernel](https://github.com/thecharlatan/rust-bitcoinkernel) project.
 
 ## Attribution
 
